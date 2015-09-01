@@ -15,7 +15,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-__author__ = 'benoimy_thread.canet@nodalink.com'
+__author__ = 'benoit.canet@nodalink.com'
 
 # This is a virtual IPMI BMC doing power query against the Ravello API server
 # to play:
